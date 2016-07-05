@@ -3,7 +3,7 @@ import os
 import sys
 
 if len(sys.argv) != 2:
-    print('Usage: %s <number of repetions>' % sys.argv[0])
+    print('Usage: %s <number of repetitions>' % sys.argv[0])
     sys.exit(1)
 
 (_, num) = sys.argv
