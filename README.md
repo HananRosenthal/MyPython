@@ -1,2 +1,3 @@
 # MyPython
-Python stuff
+#Python stuff
+#The content of this repository is python course exercises...
